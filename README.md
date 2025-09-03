@@ -11,3 +11,6 @@ It allows you to:
 - Control everything directly from the Serial Monitor.
 
 The stand features a user-friendly interface with keyboard-based controls, making it easy to test and experiment with vibration feedback.
+
+Лично я использовал для отстройки LNR от iPhone7 для достижения лучшей вибрации.
+Работу проверял на ESP32-C3
